@@ -1,0 +1,26 @@
+.select-container {
+    background-color: white;
+    position: absolute;
+    width: 200px;
+    margin: auto;
+    padding: 10px;
+    top: 10px;
+    left: 0;
+    right: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.select {
+    outline: none;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    width: 100%;
+    font-size: 1.2em;
+    border: none;
+}
+
+.slider-map {
+    margin: auto;
+    background-image: linear-gradient(to right, #db4639, #0f9f59);
+}
